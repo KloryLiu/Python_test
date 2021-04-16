@@ -291,6 +291,7 @@ def PDA():
     # b = wd.find_element_by_xpath('//div//button//div//span[text()=" 登录 "]')
     # print(b.text)
     b.click()
+    b.click()
 
     # 接收图纸
     time.sleep(3)
